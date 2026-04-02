@@ -48,30 +48,73 @@ AI platform combining:
 
 # 🛠️ Tech Stack
 
-### Machine Learning
+## 🧠 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+- Neural network training
+- Speech recognition pipelines
+- Text-to-speech systems
+- Model evaluation & metrics
+- Dataset preprocessing
 
-### AI / NLP
+---
 
+## 🎤 Speech AI / NLP
+![KenLM](https://img.shields.io/badge/KenLM-black?style=for-the-badge)
+![CTC](https://img.shields.io/badge/CTC%20Loss-4B8BBE?style=for-the-badge)
 ![ASR](https://img.shields.io/badge/ASR-FF6F00?style=for-the-badge)
 ![TTS](https://img.shields.io/badge/TTS-4CAF50?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![KenLM](https://img.shields.io/badge/KenLM-black?style=for-the-badge)
 
-### Languages
+- CTC-based acoustic models
+- Language model integration
+- Audio preprocessing
+- Feature extraction (MelSpectrogram)
+- Real-time inference
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+---
+
+## 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### GUI / Tools
+---
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge\&logo=ffmpeg\&logoColor=white)
+## 🖥️ GUI & Desktop AI Apps
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+- Qt Widgets
+- QThread processing
+- C++ + Python integration
+- Real-time UI updates
+
+---
+
+## 🗄️ Data & Storage
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- Dataset management
+- Training logs storage
+- Model versioning
+- Experiment tracking
+
+---
+
+## ⚙️ Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+- Audio processing
+- Model training workflows
+- Dataset conversion
+- CLI automation
 
 ---
 
